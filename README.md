@@ -2,7 +2,7 @@
 Cycle-Accurate simulation of a Multi-Cycle MIPS32 Processor in C.
 
 **Processor Diagram:**
-![Processor Diagram:](MIPS32_SingleCycle.png)
+![Processor Diagram:](MIPS32_MultiCycle.png)
 
 ## Supported Instructions
 
